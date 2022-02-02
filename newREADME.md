@@ -35,6 +35,9 @@
 SMARTSEC Node es una aplicación desarrollada en Python que procesa información
 de audio y vídeo para realizar el reconocimiento de asaltos con armas de fuego en tiempo real. Cuando un asalto es detectado, se genera una foto del momento y una grabación de vídeo de 10 segundos, 5 segundos antes y 5 después de la detección. Mediante Wi-Fi, se envía la información de la imagen, vídeo y fecha hacia la plataforma SMARTSEC Monitor.
 
+### Fuente de datos
+> TODO: Detallar la fuente de datos utilizada. Agregar URLs.
+
 A continuación se muestra la ventana principal de la aplicación. 
 
 > TODO: Actualizar imagen de prototipo
